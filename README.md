@@ -8,7 +8,7 @@
 ### 💻 About Me
 
 - 🌐 I’m specialized in **Frontend Development**
-- 🛠️ Currently working with **HTML** and **CSS**
+- 🛠️ Currently working with **HTML** and **CSS** and **JS**
 - 📚 Learning **React.js** and **Angular** frameworks
 - 🎯 Always curious and passionate about creating user-friendly experiences
 
