@@ -22,10 +22,11 @@
 
 ---
 
-### 📫 Get in Touch
+## 📬 Get in Touch
 
-- 📧 Email:     **youssefgamma03@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/youssefbokry](https://www.linkedin.com/feed/)
+- ✉️ Email: [youssefgamma03@gmail.com](mailto:youssefgamma03@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/youssefbokry](https://www.linkedin.com/in/youssefbokry)
+
 
 ---
 
