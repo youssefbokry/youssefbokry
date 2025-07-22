@@ -17,8 +17,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefbokry&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&title_color=444444&text_color=000000&icon_color=555555&border_color=ffffff&theme=default" width="49.5%" />
-  <img src="https://github-readme-streak-stats-mirror.vercel.app/?user=youssefbokry&mode=weekly&hide_border=true&fire=555555" width="49.5%" heith="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefbokry&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&title_color=444444&text_color=000000&icon_color=555555&border_color=ffffff&theme=default" width="48%" height="200" />
+  <img src="https://github-readme-streak-stats-mirror.vercel.app/?user=youssefbokry&mode=weekly&hide_border=true&fire=555555" width="48%" height="200" />
 </p>
 
 ---
