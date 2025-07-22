@@ -17,7 +17,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefbokry&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=youssefbokry&show_icons=true&theme=transparent&hide_border=true](https://github-readme-stats.vercel.app/api?username=youssefbokry
+&show_icons=true
+&include_all_commits=true
+&count_private=true
+&hide_border=false
+&title_color=444444
+&text_color=000000
+&icon_color=555555
+&border_color=ffffff
+&theme=default
+)" />
 </p>
 
 ---
