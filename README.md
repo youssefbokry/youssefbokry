@@ -25,7 +25,7 @@
 ## 📬 Get in Touch
 
 - ✉️ Email: [youssefgamma03@gmail.com](mailto:youssefgamma03@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/youssefbokry]([https://www.linkedin.com/in/youssefbokry](https://www.linkedin.com/in/youssef-gamma-35a530375/))
+- 🔗 LinkedIn: [linkedin.com/in/youssefbokry](https://www.linkedin.com/in/youssefbokry](https://www.linkedin.com/in/youssef-gamma-35a530375/)
 
 
 ---
